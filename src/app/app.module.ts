@@ -27,7 +27,7 @@ import { MatNativeDateModule } from '@angular/material/core';
 const routes: Routes = [
   {
     path: '',
-    redirectTo: '/#',
+    redirectTo: '#',
     pathMatch: 'full',
   },
 
